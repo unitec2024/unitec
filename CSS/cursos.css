@@ -140,7 +140,7 @@ header h1 {
     align-items: center;
     height: 5vh; /* Centraliza verticalmente na página inteira */
     background-color: #5a5454; /* Cor de fundo */
-    font-size: 29px; /* Tamanho da fonte */
+    font-size: 24px; /* Tamanho da fonte */
     animation: fadeIn 3s ease-in-out; /* Animação de fade-in */
 }
 
